@@ -30,11 +30,6 @@ This project helped me understand how to pass and render dynamic data using Reac
 
 ---
 
-## 📸 Preview
-_Add a screenshot here (optional, e.g. `screenshot.png` in your repo)_
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository  
