@@ -1,4 +1,4 @@
-# 🎯 React Props Job UI
+# 🎯 Job UI Design - React
 
 A simple and clean React project created while learning **props**.  
 It displays job openings from top tech companies with a modern card-based UI design.  
@@ -30,11 +30,16 @@ This project helped me understand how to pass and render dynamic data using Reac
 
 ---
 
+## 📸 Preview
+_Add a screenshot here (optional, e.g. `screenshot.png` in your repo)_
 
+---
 
 ## 🚀 Getting Started
 
 1. Clone the repository  
    ```bash
- git clone https://github.com/Harshitshrivas/job-ui-design-react.git
+   git clone https://github.com/Harshitshrivas/job-ui-design-react.git
+
+
 
