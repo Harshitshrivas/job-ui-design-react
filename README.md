@@ -1,16 +1,42 @@
-# React + Vite
+# 🎯 React Props Job UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean React project created while learning **props**.  
+It displays job openings from top tech companies with a modern card-based UI design.  
+This project helped me understand how to pass and render dynamic data using React props.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 What I Learned
+- How to use **props** to pass data between components in React  
+- Creating **reusable components** (like JobCard)  
+- Designing clean and responsive **UI layouts** using CSS  
+- Structuring data effectively with **arrays of objects**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💼 Features
+- Job listings from FAANG / Big Tech companies  
+- Each card shows company logo, job title, tags, pay, and location  
+- Responsive and minimal UI  
+- Clean component structure for easy maintenance  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- ⚛️ **React.js** — for building interactive UI components  
+- 🎨 **CSS3** — for styling and responsive layout  
+- 💻 **JavaScript (ES6)** — for logic and data handling  
+- 🧩 **Props Concept** — to pass and render dynamic data efficiently  
+
+---
+
+## 📸 Preview
+_Add a screenshot here (optional, e.g. `screenshot.png` in your repo)_
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/<your-username>/react-props-job-ui.git
